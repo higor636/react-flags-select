@@ -84,6 +84,8 @@ export const countries: Countries = {
   GU: "Guam",
   GT: "Guatemala",
   GG: "Guernsey",
+  GY: "Guyana",
+  GF: "French Guiana",
   GN: "Guinea",
   GW: "Guinea-Bissau",
   HT: "Haiti",
