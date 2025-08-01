@@ -1,5 +1,5 @@
 {
-  "name": "higor636/react-flags-select",
+  "name": "@higor636/react-flags-select",
   "version": "2.5.0",
   "description": "react-flags-select React component - Fork customizado",
   "main": "build/index.js",
