@@ -1,5 +1,5 @@
 {
-  "name": "@SEU_USUARIO/react-flags-select",
+  "name": "higor636/react-flags-select",
   "version": "2.5.0",
   "description": "react-flags-select React component - Fork customizado",
   "main": "build/index.js",
@@ -89,14 +89,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SEU_USUARIO/react-flags-select.git"
+    "url": "git+https://github.com/higor636/react-flags-select.git"
   },
-  "author": "SEU_NOME",
+  "author": "higor636",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SEU_USUARIO/react-flags-select/issues"
+    "url": "https://github.com/higor636/react-flags-select/issues"
   },
-  "homepage": "https://github.com/SEU_USUARIO/react-flags-select#readme",
+  "homepage": "https://github.com/higor636/react-flags-select#readme",
   "keywords": [
     "react-component"
   ]
